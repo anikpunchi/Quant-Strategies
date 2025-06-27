@@ -9,6 +9,6 @@ I then proceeded to look to combine the individual strategies to reduce risk whi
 
 I then moved on to evaluate more performance metrics. By regressing this portfolio against a benchmark (I used SPY in this instance) I am able to see what my alpha value is (if it even exists) and the statistical significance of it, by checking its corresponding p value. A daily alpha of 0.0002% with a p value of 0.01 was obtained. This is statistically significant and shows an annuallized alpha of around 5%. 
 
+Furthermore the maxdraw down duration of -0.036 was obtained that shows that our strategy has a low drawdown which is very good!
+
 To conclude, this was a basic project to showcase how diversification can be beneficial and how optimal weights for combining different strategies are calculated and implemented.
-
-
