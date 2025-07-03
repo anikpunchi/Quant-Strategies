@@ -1,4 +1,4 @@
-Please check out the jupyter notebook for this file via https://colab.research.google.com/drive/1qv_MZzZmSE5GwJ9vQ5bWwk9K0rgjcy-d
+Please check out the jupyter notebook for this file via https://nbviewer.org/github/anikpunchi/Quant-Strategies/blob/main/Combined%20weighted%20strategies/Weighted_strategy.ipynb
 
 This is a basic demonstration on how combining different return streams or strategies optimally can minimize volatility (ideally without sacrificing return). The same cross sectional reversal strategy is used on six large cap US stocks; namely (ticker symbol is used), 'AAPL', 'TSLA', 'NVDA', 'META', 'AMZN', and 'GOOG'. 
 
